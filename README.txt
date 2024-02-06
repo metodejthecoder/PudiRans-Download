@@ -20,18 +20,18 @@ P                 UUUUUUUUUUUUUU       DDDDDDDDDDDDDD           IIIIIIIIIIII    
         TVůRCE: metodej_the_coder
 "I am not responsible 4 any damages or files lost!" (Nejsem zodpovědný za to, co uděláte se svým PC, výkupné je 200 Kč.)
 -------------------------------------------------------------------------------------------------------------------------------------------
-Verze 4.0
+Verze 6.0
 Program funguje pomocí SevenZip (7zip) takže pokud 7zip nemáte tak ho instalujte.
 Vaše verze windows musí podporovat Visual Basic Script (VBScript)
 Kombatibilní se systémy: Windows ME (Win2000Profesionall), Win98, WinXP, WinWhistler, WinLonghorn (Nikdy oficiálně nevydáno) , Win7 (a všechny verze win7), Win8, Win8.1, Windows10 
 (2015+2018), win11 (No a teoreticky všechny verze kde jde instalovat 7z.exe (7zip)
 Linux ne.... :) (Win95 asi taky podporuje můj virus....)
+Soubor PudiDecryptor6.0.exe nesmí být umístěn v users.
 -------------------------------------------------------------------------------------------------------------------------------------------
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Nekopírujte můj zdroják!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -------------------------------------------------------------------------------------------------------------------------------------------
 Díky :D (Uffff... Takže hotovo!)
  Podpis: metodej_the_coder 
 Můj YouTube kanál: StarLae (@CmdCoder192) >> Odběr!
-Můj WhatsApp: metodej_the_coder 11:05 21.01.2024
-kontakt: metodej.ondra@icloud.com >> Neposílat spam! 
+Můj WhatsApp: metodej_the_coder 11:05 21.01.2024 
 Děkuji za stažení mého ransomwaru. NEPOUŽÍVAT PRO NEZÁKOKONNÉ ÚČELY!
